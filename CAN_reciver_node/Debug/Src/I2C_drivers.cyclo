@@ -1,0 +1,4 @@
+../Src/I2C_drivers.c:17:6:i2c2_start	3
+../Src/I2C_drivers.c:32:6:i2c2_send_addr	2
+../Src/I2C_drivers.c:47:6:i2c2_send_byte	3
+../Src/I2C_drivers.c:59:6:i2c2_stop	1

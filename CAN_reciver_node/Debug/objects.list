@@ -1,0 +1,8 @@
+"./Src/I2C_drivers.o"
+"./Src/func.o"
+"./Src/init.o"
+"./Src/lcd_drivers.o"
+"./Src/main.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32f103c8tx.o"

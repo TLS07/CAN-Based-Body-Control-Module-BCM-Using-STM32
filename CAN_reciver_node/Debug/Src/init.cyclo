@@ -1,0 +1,4 @@
+../Src/init.c:5:6:clk_init	4
+../Src/init.c:35:6:CAN_init	3
+../Src/init.c:86:6:i2c2_init	1
+../Src/init.c:130:6:GPIOB_Output_Init	1

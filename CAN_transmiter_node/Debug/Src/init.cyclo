@@ -1,0 +1,4 @@
+../Src/init.c:6:6:clk_init	4
+../Src/init.c:37:6:CAN_init	3
+../Src/init.c:91:6:ADC1_init	3
+../Src/init.c:116:6:GPIO_init	1

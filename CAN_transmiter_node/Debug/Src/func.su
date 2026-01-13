@@ -1,0 +1,3 @@
+../Src/func.c:8:6:CAN_transmit	24	static
+../Src/func.c:48:11:adc1_read_channel	16	static
+../Src/func.c:55:10:read_switches	4	static

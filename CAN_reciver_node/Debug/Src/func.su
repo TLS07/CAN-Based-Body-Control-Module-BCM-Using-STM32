@@ -1,0 +1,2 @@
+../Src/func.c:5:5:CAN_receive	40	static
+../Src/func.c:35:6:lcd_display	32	static

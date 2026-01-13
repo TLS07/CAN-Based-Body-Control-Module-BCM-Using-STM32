@@ -1,0 +1,10 @@
+../Src/lcd_drivers.c:38:6:lcd_init	5
+../Src/lcd_drivers.c:68:6:lcd_send_cmd	1
+../Src/lcd_drivers.c:73:6:lcd_send_data	1
+../Src/lcd_drivers.c:78:6:lcd_send_byte	1
+../Src/lcd_drivers.c:85:6:lcd_send_nibble	2
+../Src/lcd_drivers.c:92:6:lcd_clear	2
+../Src/lcd_drivers.c:99:6:lcd_pulse_en	3
+../Src/lcd_drivers.c:113:6:lcd_set_cursor	3
+../Src/lcd_drivers.c:129:6:lcd_print_char	1
+../Src/lcd_drivers.c:135:6:lcd_print_string	2
